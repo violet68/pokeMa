@@ -12,6 +12,7 @@
 		A95439B61F209D9900BA1290 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A95439B41F209D9900BA1290 /* Main.storyboard */; };
 		A95439B81F209D9900BA1290 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A95439B71F209D9900BA1290 /* Assets.xcassets */; };
 		A95439BB1F209D9900BA1290 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A95439B91F209D9900BA1290 /* LaunchScreen.storyboard */; };
+		A9B1E2111F20E8C6003BE76A /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = A9B1E2101F20E8C6003BE76A /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		A95439B71F209D9900BA1290 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A95439BA1F209D9900BA1290 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A95439BC1F209D9900BA1290 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A9B1E2101F20E8C6003BE76A /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				A95439B21F209D9900BA1290 /* ViewController.swift */,
 				A95439B41F209D9900BA1290 /* Main.storyboard */,
 				A95439B71F209D9900BA1290 /* Assets.xcassets */,
+				A9B1E2101F20E8C6003BE76A /* pokemon.csv */,
 				A95439B91F209D9900BA1290 /* LaunchScreen.storyboard */,
 				A95439BC1F209D9900BA1290 /* Info.plist */,
 			);
@@ -125,6 +128,7 @@
 			files = (
 				A95439BB1F209D9900BA1290 /* LaunchScreen.storyboard in Resources */,
 				A95439B81F209D9900BA1290 /* Assets.xcassets in Resources */,
+				A9B1E2111F20E8C6003BE76A /* pokemon.csv in Resources */,
 				A95439B61F209D9900BA1290 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -299,6 +303,7 @@
 				A95439C11F209D9900BA1290 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
